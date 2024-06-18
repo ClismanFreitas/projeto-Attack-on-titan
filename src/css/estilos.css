@@ -4,6 +4,12 @@ body {
 	overflow-x:hidden;
 }
 
+header{
+    position: fixed;
+	width: 100%;
+	z-index: 10;
+}
+
 .cabecalho {
 	height: 80px;
 	background-color: #0b0b0b;
